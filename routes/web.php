@@ -29,5 +29,5 @@ Route::resource('users', 'UserController');
 
 Route::get('/produks', [ProdukController::class, 'index']);
 
-
+Route::resource('/propiles', 'App\Http\Controllers\PropileController');
 
