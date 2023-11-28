@@ -67,3 +67,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 "3 laravel-bootcamp" 
 "# Bootcamp-SelfServicePOS" 
 "# Sel-Service-POS---Submission-3" 
+"# Self-Service-POS---Submission-3" 
